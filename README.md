@@ -1,4 +1,4 @@
-# CBMI 2025 Paper: Lifelog Context Retrieval
+# CBMI 2025 Paper: Multi-modal Context Reranking for Lifelog Question Answering
 
 This folder contains materials related to the CBMI 2025 submission on lifelog context retrieval.
 
